@@ -1,18 +1,48 @@
-# Python caches and virtual environments
+# ===========================
+# Python Cache
+# ===========================
 __pycache__/
 *.py[cod]
+*.pyo
+
+# ===========================
+# Virtual Environment
+# ===========================
 .venv/
+venv/
+env/
 
-# Local data, model artifacts, and secrets
-data/raw/
-data/processed/
-models/
-reports/eda/
-reports/segmentation/
-reports/modeling/
+# ===========================
+# Environment Variables
+# ===========================
 .env
+.env.*
 
-# Tooling and dashboard artifacts
+# ===========================
+# Testing
+# ===========================
 .pytest_cache/
 .coverage
+htmlcov/
+
+# ===========================
+# Jupyter
+# ===========================
+.ipynb_checkpoints/
+
+# ===========================
+# IDE Files
+# ===========================
+.vscode/
+.idea/
+
+# ===========================
+# Streamlit Secrets
+# ===========================
 .streamlit/secrets.toml
+
+# ===========================
+# OS Files
+# ===========================
+.DS_Store
+Thumbs.db
