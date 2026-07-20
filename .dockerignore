@@ -1,0 +1,10 @@
+.git/
+.agents/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.venv/
+data/
+models/
+.env
+.streamlit/secrets.toml

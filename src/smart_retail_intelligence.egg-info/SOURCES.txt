@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/smart_retail/__init__.py
+src/smart_retail/data.py
+src/smart_retail_intelligence.egg-info/PKG-INFO
+src/smart_retail_intelligence.egg-info/SOURCES.txt
+src/smart_retail_intelligence.egg-info/dependency_links.txt
+src/smart_retail_intelligence.egg-info/requires.txt
+src/smart_retail_intelligence.egg-info/top_level.txt
+tests/test_data.py
