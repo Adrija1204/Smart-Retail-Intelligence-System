@@ -4,8 +4,6 @@
 
 ---
 
-## Pseudocode
-
 ```text
 START
 
@@ -83,20 +81,7 @@ Business Insights & Customer Actions
 Streamlit Dashboard
 ```
 
-## Key Technologies
-
-```text
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-SHAP
-Streamlit
-Jupyter Notebook
-Git & GitHub
-```
+---
 
 ## Machine Learning Used
 
@@ -111,6 +96,16 @@ SUPERVISED LEARNING
 MODEL EXPLAINABILITY
     → SHAP
 ```
+
+---
+
+## Live Dashboard
+
+Smart Retail Intelligence System dashboard:
+
+[Open Smart Retail Intelligence System Dashboard](https://smart-retail-intelligence-system-8rpxfsxpfg8yhkv2py95tx.streamlit.app/?utm_source=chatgpt.com)
+
+---
 
 ## Output
 
